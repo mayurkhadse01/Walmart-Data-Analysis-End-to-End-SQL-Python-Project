@@ -102,3 +102,19 @@ Use the command kaggle datasets download -d <dataset-path> to pull datasets dire
 This section will include your analysis findings:
 - **Sales Insights**: Key categories, branches with highest sales, and preferred payment methods.
 - **Profitability**: Insights into the most profitable product categories and locations.
+
+  ---
+
+## License
+
+This project is licensed under the MIT License. 
+
+---
+
+## Acknowledgments
+
+- **Data Source**: Kaggle’s Walmart Sales Dataset
+- **Inspiration**: Walmart’s business case studies on sales and supply chain optimization.
+
+---
+
